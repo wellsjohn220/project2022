@@ -1,0 +1,4 @@
+git commit -m "project demo in 2022"
+git remote add origin https://github.com/wellsjohn220/project2022.git
+git branch -M main
+git push -u origin main
